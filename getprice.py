@@ -5,7 +5,7 @@ from datetime import datetime
 import mysql.connector
 
 #SQL Database Connectiona
-sql_host="10.1.110.21"
+sql_host="10.1.65.21"
 sql_user="crypto"
 sql_password="yT6?ESBAP@nq!C7B"
 sql_database="takealotprices"
